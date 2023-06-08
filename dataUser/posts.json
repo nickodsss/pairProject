@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Mau bgt belajar coding hehe",
+        "imgUrl": "https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a030850a538782b1755eeb_coding%203.jpg",
+        "CategoryId": 5,
+        "UserId": 1
+    },
+    {
+        "description": "jalan2 dulu ah",
+        "imgUrl": "https://images.bisnis.com/posts/2023/01/16/1618699/traveling.jpg",
+        "CategoryId": 4,
+        "UserId": 2
+    }
+]

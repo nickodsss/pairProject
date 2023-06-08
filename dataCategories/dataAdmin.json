@@ -1,0 +1,27 @@
+[
+    {
+        "email": "fooddrink@category.com",
+        "password": "passwordfooddrink",
+        "role": "admin"
+    },
+    {
+        "email": "lifestyle@category.com",
+        "password": "passwordlifestyle",
+        "role": "admin"
+    },
+    {
+        "email": "pets@category.com",
+        "password": "passwordpets",
+        "role": "admin"
+    },
+    {
+        "email": "travel@category.com",
+        "password": "passwordtravel",
+        "role": "admin"
+    },
+    {
+        "email": "technology@category.com",
+        "password": "passwordtechnology",
+        "role": "admin"
+    }
+]
